@@ -4,10 +4,10 @@ Web scraping pipelines combined with LLM-powered extraction to turn unstructured
 
 ## What this covers
 
-- **Scrapers** — Site-specific scraping modules using BeautifulSoup and Playwright
-- **LLM extraction** — Structured data extraction via OpenAI function calling and Pydantic schemas
-- **Transformers** — Data cleaning, normalization, and deduplication
-- **Storage** — Output to JSON, CSV, SQLite, and PostgreSQL
+- **Scrapers** - Site-specific scraping modules using BeautifulSoup and Playwright
+- **LLM extraction** - Structured data extraction via OpenAI function calling and Pydantic schemas
+- **Transformers** - Data cleaning, normalization, and deduplication
+- **Storage** - Output to JSON, CSV, SQLite, and PostgreSQL
 
 ## Stack
 
